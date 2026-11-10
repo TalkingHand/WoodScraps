@@ -27,5 +27,7 @@ description=[h2]한국어[/h2]
 description=잔 가지, 나무 조각, 부서진 판자, 나무 포크·담뱃대·배트 같은 나무 물건을 나무 부스러기로 쪼개고, 부스러기 15개를 망치로 압착해 판자 1개를 만듭니다(목공 5 필요). 접착제는 필요 없습니다. 부스러기 수는 무게를 따릅니다(부스러기 1개 = 0.2kg). 잔 가지는 맨손, 나머지는 칼·도끼·톱이 필요합니다. 레시피만 추가하는 모드라 기존 세이브에 넣고 빼도 됩니다. 멀티에서는 서버에도 필요합니다.
 description=
 description=Source: https://github.com/TalkingHand/WoodScraps
+description=
+description=[url=https://ko-fi.com/talkinghands2285][img]https://raw.githubusercontent.com/TalkingHand/WoodScraps/main/art/kofi_button.png[/img][/url]
 tags=Build 42;Balance;Items
 visibility=public
