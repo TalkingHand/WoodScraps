@@ -1,0 +1,139 @@
+module Base
+{
+    craftRecipe WoodScraps_BreakTwigs
+    {
+        timedAction = Making,
+        time = 10,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.Twigs] flags[Prop2],
+        }
+        outputs
+        {
+            item 1 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_BreakTwigsBundle
+    {
+        timedAction = Making,
+        time = 60,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.TwigsBundle] flags[Prop2],
+        }
+        outputs
+        {
+            item 12 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_Splinter1
+    {
+        timedAction = SharpenStakeWood,
+        time = 40,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.Chopsticks;Base.ClayTool_Carved;Base.Dice_Wood;Base.KnittingNeedles_Wood;Base.SkewersWooden;Base.SmallHandle;Base.SmokingPipe;Base.WoodenBarCastMold;Base.WoodenBenchAnvilMold;Base.WoodenBlacksmithAnvilMold;Base.WoodenBlockAnvilMold;Base.WoodenBrickMold;Base.WoodenCrudeBenchVisePartsMold;Base.WoodenFork;Base.WoodenIngotCastMold;Base.WoodenShingleMold;Base.WoodenSpoon;Base.WoodenTileMold] flags[Prop2;AllowDestroyedItem],
+            item 1 tags[base:sharpknife;base:choptree;base:saw;base:crudesaw] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 1 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_Splinter2
+    {
+        timedAction = SharpenStakeWood,
+        time = 50,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.Drumstick;Base.Goblet_Wood;Base.Handle;Base.MasonsTrowel_Wood;Base.Stake] flags[Prop2;AllowDestroyedItem],
+            item 1 tags[base:sharpknife;base:choptree;base:saw;base:crudesaw] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 2 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_Splinter5
+    {
+        timedAction = SharpenStakeWood,
+        time = 80,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.CrudeWoodenTongs;Base.CuttingBoardWooden;Base.LongHandle_Broken;Base.Plank_Broken;Base.UnusableWood;Base.WoodenStick_Broken] flags[Prop2;AllowDestroyedItem],
+            item 1 tags[base:sharpknife;base:choptree;base:saw;base:crudesaw] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 5 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_Splinter7
+    {
+        timedAction = SharpenStakeWood,
+        time = 100,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.BaseballBat_Broken;Base.Branch_Broken;Base.FieldHockeyStick;Base.GardenToolHandle_Broken;Base.IceHockeyStick;Base.LongStick_Broken;Base.ShortBat;Base.WoodenMallet] flags[Prop2;AllowDestroyedItem],
+            item 1 tags[base:sharpknife;base:choptree;base:saw;base:crudesaw] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 7 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_Splinter10
+    {
+        timedAction = SharpenStakeWood,
+        time = 130,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        inputs
+        {
+            item 1 [Base.BaseballBat;Base.BaseballBat_Crafted;Base.FieldHockeyStick_Broken;Base.LongHandle;Base.SpadeWood;Base.SpearCrafted;Base.SpearCraftedFireHardened] flags[Prop2;AllowDestroyedItem],
+            item 1 tags[base:sharpknife;base:choptree;base:saw;base:crudesaw] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 10 Base.Splinters,
+        }
+    }
+
+    craftRecipe WoodScraps_PressPlank
+    {
+        timedAction = MakingHammer_Surface,
+        time = 120,
+        Tags = InHandCraft;CanBeDoneFromFloor,
+        category = Carpentry,
+        SkillRequired = Woodwork:5,
+        xpAward = Woodwork:5,
+        inputs
+        {
+            item 15 [Base.Splinters] flags[Prop2],
+            item 1 tags[base:hammer;base:clubhammer;base:mallet] mode:keep flags[MayDegradeLight;Prop1],
+        }
+        outputs
+        {
+            item 1 Base.Plank,
+        }
+    }
+
+}

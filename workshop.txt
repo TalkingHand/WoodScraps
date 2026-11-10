@@ -1,0 +1,31 @@
+version=1
+id=3835806010
+title=[42.22.2] Wood Scraps to Planks
+description=[h1]Wood Scraps to Planks[/h1]
+description=Chopping trees and clearing bushes leaves piles of twigs and wood splinters that are good for nothing but tinder. This mod turns them, and any small wooden item you no longer need, into planks. [b]No glue[/b]: the splinters are pressed with a hammer.
+description=
+description=[h2]How it works[/h2]
+description=[list]
+description=[*][b]Break into splinters:[/b] twigs by hand (1 splinter, a twigs bundle gives 12). Scrap wood, broken planks and wooden items need a knife, axe or saw. The number of splinters follows the item's weight (0.2 kg per splinter).
+description=[*][b]Press into a plank:[/b] 15 wood splinters + a hammer, club hammer or wooden mallet = 1 plank (15 splinters weigh the same as a plank). Needs [b]Carpentry 5[/b]. Gives Carpentry XP like sawing logs. Splitting needs no skill.
+description=[/list]
+description=
+description=[h2]Wooden items that break into splinters[/h2]
+description=[list]
+description=[*]1: wooden fork, spoon, chopsticks, skewers, dice, smoking pipe, knitting needles, clay sculpting tool, wooden molds, small handle
+description=[*]2: wood goblet, wooden trowel, stake, drumstick, medium handle
+description=[*]5: scrap wood, broken plank, cutting board, wooden tongs, broken stick, broken large handle
+description=[*]7: broken branch, broken baseball bat, broken garden tool handle, broken long stick, short bat, wooden mallet, field and ice hockey sticks
+description=[*]10: baseball bats, broken field hockey stick, wooden spade, wooden spears, large handle
+description=[/list]
+description=Raw materials (logs, branches, planks, saplings, firewood), items with metal or other parts (nailed weapons, wooden armor) and containers are left out. Handles carved from planks give fewer splinters, so planks can't be multiplied.
+description=
+description=[h2]Compatibility[/h2]
+description=Recipes only (no Lua, no vanilla files replaced). Uses vanilla items only, so it is safe to add to or remove from existing saves. In multiplayer, the server needs the mod too.
+description=
+description=[h2]한국어[/h2]
+description=잔 가지, 나무 조각, 부서진 판자, 나무 포크·담뱃대·배트 같은 나무 물건을 나무 부스러기로 쪼개고, 부스러기 15개를 망치로 압착해 판자 1개를 만듭니다(목공 5 필요). 접착제는 필요 없습니다. 부스러기 수는 무게를 따릅니다(부스러기 1개 = 0.2kg). 잔 가지는 맨손, 나머지는 칼·도끼·톱이 필요합니다. 레시피만 추가하는 모드라 기존 세이브에 넣고 빼도 됩니다. 멀티에서는 서버에도 필요합니다.
+description=
+description=Source: https://github.com/TalkingHand/WoodScraps
+tags=Build 42;Balance;Items
+visibility=public

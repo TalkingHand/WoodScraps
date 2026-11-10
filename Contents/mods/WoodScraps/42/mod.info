@@ -1,0 +1,8 @@
+name=Wood Scraps to Planks
+id=WoodScraps
+description=Break twigs, scrap wood and small wooden items into wood splinters, and press 15 splinters into a plank (Carpentry 5). No glue needed.
+poster=poster.png
+author=TalkingHand
+url=https://github.com/TalkingHand/WoodScraps
+modversion=0.1.0
+versionMin=42.0

@@ -1,0 +1,10 @@
+Attach: _art/refs/character_sheet.webp + _art/refs/style_doubleclick.png + _art/refs/chalk_zombie_sheet.png
+
+Use the attached character sheet for the character's identity and the attached preview image for art style.
+
+Character (keep exactly): early-30s male survivor, short scruffy brown beard, messy brown hair, faded gray headband, red-and-black buffalo plaid flannel with rolled sleeves over dark gray T-shirt, olive work pants, brown work boots.
+Style: bold black ink outlines, gritty comic style, muted desaturated palette, red accent. Square 1:1 composition, readable at small thumbnail size. No text, no onomatopoeia.
+
+Small in a corner: the chalk zombie from the attached chalk sheet (white chalk stick figure, X eyes, jagged teeth), drawn as chalk on the side of the wooden workbench, giving a thumbs-up toward the new plank.
+
+Scene: Outdoors at the edge of a forest, the man kneels at a low wooden workbench and swings a claw hammer down onto a crude press: two short boards clamped together, with a thick mat of pale wood splinters squeezed between them. In front of the bench lies one finished, fresh plank, clean and flat. Around the bench, a messy heap of wood junk waits its turn: a bundle of twigs, a broken plank, a broken baseball bat, a wooden fork and spoon, and a wooden smoking pipe. A kitchen knife is stuck in a stump next to the heap. No glue bottles, no logs being sawn.

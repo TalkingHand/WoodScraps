@@ -1,0 +1,7 @@
+pzt-env/
+*.log
+Thumbs.db
+.DS_Store
+*.bak
+# test save (copied from a personal game)
+tests/save/
