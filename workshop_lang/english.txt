@@ -1,0 +1,37 @@
+Chopping trees and clearing bushes leaves piles of twigs and wood splinters that are good for little more than tinder. This mod turns them, along with small wooden items you no longer need, into planks.
+
+[b]No glue needed: the splinters are pressed into a plank with a hammer.[/b]
+
+[h2]How it works[/h2]
+[list]
+[*][b]Break into splinters:[/b] Twigs break by hand into 1 splinter (a Twigs Bundle gives 12). Scrap Wood, Broken Plank and the wooden items below need a knife, axe or saw. The number of splinters follows the item's weight (0.2 kg per splinter). Broken items are accepted too.
+[*][b]Press into a plank:[/b] 15 Wood Splinters + a hammer, club hammer or mallet = 1 Plank. 15 splinters weigh as much as one plank. Needs Carpentry 5 and gives Carpentry XP like sawing logs. Breaking needs no skill.
+[*][b]Recipes:[/b] Break Twigs Into Splinters, Break Twigs Bundle Into Splinters, Break Into Wood Splinters (1/2/5/7/10), Press Splinters Into Plank. All are in the Carpentry category.
+[/list]
+
+[h2]Wooden items that break into splinters[/h2]
+[list]
+[*][b]1:[/b] Wooden Fork, Wooden Spoon, Chopsticks, Wooden Skewers, Dice - Wood, Smoking Pipe, Knitting Needles - Wood, Wood Clay Sculpting Tool, 9 wooden molds, Small Handle
+[*][b]2:[/b] Wood Goblet, Wooden Trowel, Stake, Drumstick, Medium Handle
+[*][b]5:[/b] Scrap Wood, Broken Plank, Cutting Board, Simple Wooden Tongs, Broken Stick, Broken Large Handle
+[*][b]7:[/b] Broken Branch, Broken Baseball Bat, Broken Garden Tool Handle, Broken Long Stick, Short Bat, Wooden Mallet, Field Hockey Stick, Ice Hockey Stick
+[*][b]10:[/b] Baseball Bat, Crafted Baseball Bat, Broken Field Hockey Stick, Wooden Spade, Wooden Spear, Wooden Spear (Fire Hardened), Large Handle
+[/list]
+
+[h2]Limits[/h2]
+[list]
+[*]Raw materials (logs, branches, planks, saplings, firewood), items with metal or other parts (nailed weapons, wooden armor) and containers are left out.
+[*]Handles carved from planks give fewer splinters than their weight, so planks can't be multiplied.
+[*]The clay Smoking Pipe is the same item as the wooden one, so it also gives 1 splinter.
+[/list]
+
+[h2]Compatibility[/h2]
+[list]
+[*]Recipes only: no Lua code, no vanilla files replaced, vanilla items only.
+[*]Safe to add to or remove from an existing save.
+[*]In multiplayer, the server needs the mod too.
+[/list]
+
+Source: https://github.com/TalkingHand/WoodScraps
+
+[url=https://ko-fi.com/talkinghands2285][img]https://raw.githubusercontent.com/TalkingHand/WoodScraps/main/art/kofi_button.png[/img][/url]
